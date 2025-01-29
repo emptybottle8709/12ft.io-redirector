@@ -1,2 +1,2 @@
-# 12ft.io-redirector
-Firefox extension that redirects the actual webpage to 12ft.io
+# README
+Redirect actual website throught 12ft.io extension for Firefox
